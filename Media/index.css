@@ -1,3 +1,12 @@
+@font-face {
+    font-family: roboto;
+    src: url('./Fonts/Roboto-Regular.ttf');
+}
+
+html {
+    font-family: roboto;
+}
+
 .commands {
     font-style: italic;
     font-weight: bold;
