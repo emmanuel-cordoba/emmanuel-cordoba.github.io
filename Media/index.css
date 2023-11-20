@@ -7,7 +7,8 @@ html {
     font-family: roboto;
 }
 
-.commands {
+.commands, .tag {
     font-style: italic;
     font-weight: bold;
 }
+
