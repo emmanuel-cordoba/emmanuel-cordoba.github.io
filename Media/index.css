@@ -37,4 +37,12 @@ td {
     border-top: 1px solid darkorchid;
 }
   
-  
+@media screen and (max-width: 500px) {
+    
+    table {
+        border: 2px solid darkorchid;
+        width: 400px;
+        margin: 0 auto; 
+    }
+    
+}
