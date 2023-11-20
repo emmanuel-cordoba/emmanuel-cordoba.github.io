@@ -36,6 +36,10 @@ thead {
 td {
     border-top: 1px solid darkorchid;
 }
+
+.banner {
+    background-image: url('./Images/mathematics-intricate-formulas-a67er6d0w5gm1ljk.jpg');
+}
   
 @media screen and (max-width: 500px) {
     
